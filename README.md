@@ -1,8 +1,8 @@
 # SportsResultTracker
-Application for learning and implementing the Repository design pattern.
+Application that scrapes for Sports Results and sends it formatted to an email daily.
 
-Web API that implements a Repository abstraction layer ontop of EF, using a SQL server for a Database.
-And an application for consuming the API
+For learning webscraping and emailing programatically. Webscraping might be more niche but is a strong tool to have when an API is not provided.
+Sending emails is an integral part of companies and as such being able to do so programatically and on a schedule is invaluable.
 
 ## Requirements
 - [x] This is an application where you should read sports data from a website once a day and send it to a specific e-mail address.
